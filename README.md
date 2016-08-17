@@ -8,6 +8,9 @@ Peter Bugaj
 Code is located under the file:
 ./src/main/scala/com/nurun/scala/leet/Main.scala
 
+URL:
+https://github.com/Peter-Bugaj/leetChallenge/blob/master/src/main/scala/com/nurun/scala/leet/Main.scala
+
 ##Running the code##
 Using SBT:
 1. $>: SBT
