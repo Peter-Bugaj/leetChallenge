@@ -28,5 +28,5 @@ Using scalac:
 
 2. $>: scala com.nurun.scala.leet.Main "You are elite! "
 
-Precompile code is found under:
+Precompiled code is found under:
 ./com/nurun/scala/leet/
